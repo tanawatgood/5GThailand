@@ -47,7 +47,7 @@ $result = $conn->query($sql);
                 <div class="carousel-img" style="background-image: url('https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80')">
                     <div class="carousel-caption">
                         <h1 class="display-4 font-weight-bold">5G Thailand</h1>
-                        <p class="lead">เทคโนโลยี 4G อนาคตความเร็วสูง</p>
+                        <p class="lead">เทคโนโลยี 5G อนาคตความเร็วสูง</p>
                     </div>
                     <div class="blackscreen"></div>
                 </div>
