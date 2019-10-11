@@ -59,7 +59,7 @@
       </div>
     </div>
   </div>
-</div>
+</div><br>
 <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
