@@ -60,6 +60,16 @@
     </div>
   </div>
 </div>
+<div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">ใส่หัวข้อที่ต้องการ</h5>
+        <p class="card-text">ข้อความขยายหัวข้อเพื่อเพิ่มรายละเอียด</p>
+        <a href="#" class="btn btn-primary">อ่านต่อ...</a>
+      </div>
+    </div>
+  </div>
+</div>
     </section>
 
     
