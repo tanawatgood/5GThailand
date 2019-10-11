@@ -14,16 +14,16 @@
             <div class="collapse navbar-collapse" id="navbarKey">
                 <ul class="navbar-nav ml-auto text-center">
                     <li class="nav-item <?php echo $file_name == 'index' ? 'active':''  ?>">
-                        <a class="nav-link" href="index.php">Home|<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Home |<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item <?php echo $file_name == 'about' ? 'active':''  ?>">
-                        <a class="nav-link" href="about.php">Road to 5G|</a>
+                        <a class="nav-link" href="about.php">Road to 5G |</a>
                     </li>
                     <li class="nav-item <?php echo $file_name == 'blog'|| $file_name == 'blog-detail' ? 'active':''  ?>">
-                        <a class="nav-link" href="blog.php">Blog|</a>
+                        <a class="nav-link" href="blog.php">Blog |</a>
                     </li>
                     <li class="nav-item <?php echo $file_name == 'contact' ? 'active':''  ?>">
-                        <a class="nav-link" href="contact.php">Contact|</a>
+                        <a class="nav-link" href="contact.php">Contact </a>
                     </li>
                 </ul>
             </div>
