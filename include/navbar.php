@@ -17,7 +17,7 @@
                         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item <?php echo $file_name == 'about' ? 'active':''  ?>">
-                        <a class="nav-link" href="about.php">About</a>
+                        <a class="nav-link" href="about.php">Road to 5G</a>
                     </li>
                     <li class="nav-item <?php echo $file_name == 'blog'|| $file_name == 'blog-detail' ? 'active':''  ?>">
                         <a class="nav-link" href="blog.php">Blog</a>
